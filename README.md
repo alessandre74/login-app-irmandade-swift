@@ -3,7 +3,7 @@ Irmandade Swift
 </h1>
 
 <div align="center">
-  <img src="./mp4/login.mov"/>
+  <img src="./gif/login.gif"/>
  </div>
 
  </br>
